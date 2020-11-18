@@ -60,5 +60,6 @@ export { default as toConsumableArray } from './_to_consumable_array';
 export { default as toPrimitive } from './_to_primitive';
 export { default as toPropertyKey } from './_to_property_key';
 export { default as typeOf } from './_type_of';
+export { default as _typeof } from './_type_of';
 export { default as wrapAsyncGenerator } from './_wrap_async_generator';
 export { default as wrapNativeSuper } from './_wrap_native_super';
