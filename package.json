@@ -2,8 +2,7 @@
   "name": "@swc/helpers",
   "version": "0.2.2",
   "description": "",
-  "esnext": "src/index.js",
-  "main": "lib/index.js",
+  "module": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
